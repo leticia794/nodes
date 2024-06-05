@@ -86,3 +86,14 @@ console.log("======== T = " + T + " ========")
 console.log(T + " x " + M + " = ", T * M );
 }
  } 
+
+
+
+
+
+const produtos=["arroz","ovos","feijão","detergente","sabonete","uva","refrigerante","tomate","bolacha","pão"]
+console.log(produtos);
+console.log(produtos[2])
+console.log(produtos.lenght);
+produtos.pop;
+console.log(produtos.pop())
