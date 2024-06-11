@@ -29,6 +29,12 @@ console.log("3x3=9")
 console.log("3x4=12")
 console.log("3x5=15")
 console.log("3x6=18")
+
+
+Dado = [["Marcos","Rafaela","Maria"],[8,8.5,9]];
+console.log("nome:"+Dado[0][1]+"media:"+Dado[1][1]);
+  Dado = [["marcos,","Rafaela","Maria"],[[3,9,7],[5,8,9],[8,9,7]]]
+ A console.log("nome:"+DAdo[0][1]+"media:"+Dado[1][1]);
 console.log("3x7=21")
 console.log("3x8=24")
 console.log("3x9=27")
