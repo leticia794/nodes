@@ -103,3 +103,22 @@ console.log(produtos[2])
 console.log(produtos.lenght);
 produtos.pop;
 console.log(produtos.pop())
+
+
+
+
+
+
+const objetopessoaX = {
+    id:93,
+    nome: "leticia",
+    idade: 53,
+    cpf:"999.390.693.89"
+}
+
+console.log(`nome da pessoa: ${objetopessoaX.nome} `)
+
+console.log(objetopessoaX)                                                  
+
+
+console.log(`nome: ${objetocliente.nome}`)                                     
