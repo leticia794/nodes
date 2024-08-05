@@ -18,3 +18,15 @@ resultado = resultado * fatorial *(fatorial - i);
 }
 
 
+cliente.endereço = {
+    rua: "Sete desetembro",
+    numero: 954,
+    apartamento:true,
+    complemento:"ap 25"
+}
+
+console.log(cliente)
+
+console.log(cliente.endereço)
+
+console.log(cliente.endereço.rua)
