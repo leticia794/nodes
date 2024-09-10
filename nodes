@@ -1,148 +1,18 @@
+                                              3TRIMESTRE
 
-let idade = 15;
+[{
+    "nome":"Kirby",
+    "email":"kcoard8@squidoo.com",
+    "telefone":[
+        "9291767581",
+        "92991767581"
 
-if (idade >= 18){
-    console.log("sua idade é: " + 
-               idade+
-               ", você é maior de idade");
-}else{
-     console.log("sua idade é: "
-                idade+
-                ", vocé é menor de idade");
-}
-
-
-console.log("1x1=1")
-console.log("1x2=2")
-console.log("1x3=3")
-console.log("1x4=4")
-console.log("1x5=5")
-console.log("1x6=6")
-console.log("1x7=7")
-console.log("1x8=8")
-console.log("1x9=9")
-console.log("1x10=10")
-
-console.log("3x1=3")
-console.log("3x2=6")
-console.log("3x3=9")
-console.log("3x4=12")
-console.log("3x5=15")
-console.log("3x6=18")
-
-
-Dado = [["Marcos","Rafaela","Maria"],[8,8.5,9]];
-console.log("nome:"+Dado[0][1]+"media:"+Dado[1][1]);
-  Dado = [["marcos,","Rafaela","Maria"],[[3,9,7],[5,8,9],[8,9,7]]]
- A console.log("nome:"+DAdo[0][1]+"media:"+Dado[1][1]);
-console.log("3x7=21")
-console.log("3x8=24")
-console.log("3x9=27")
-console.log("3x10=30")
-
-console.log("7x1=7")
-console.log("7x2=14")
-console.log("7x3=21")
-console.log("7x4=28")
-console.log("7x5=35")
-console.log("7x6=42")
-console.log("7x7=49")
-console.log("7x8=56")
-console.log("7x9=63")
-console.log("7x10=70")
-
-
-
-console.log("8x1=8")
-console.log("8x2=16")
-console.log("8x3=24")
-console.log("8x4=32")
-console.log("8x5=40")
-console.log("8x6=48")
-console.log("8x7=56")
-console.log("8x8=64")
-console.log("8x9=72")
-console.log("8x10=80")
-
-
-
-
-console.log(t+"x1=",t*1)
-console.log(t+"x2=",t*2)
-console.log(t+"x3=",t*3)
-console.log(t+"x4=",t*4)
-console.log(t+"x5=",t*5)
-console.log(t+"x6=",t*6)
-console.log(t+"x7=",t*7)
-console.log(t+"x8=",t*8)
-console.log(t+"x9=",t*9)
-console.log(t+"x10=",t*10)
-
-
-console.log(" 1 x 1 = ", 1 * 1);
-console.log(" 1 x 1 = ", 1 * 2);
-
-console.log("1 x 2 = ", "1a" + 2);
-for t = 1;
-for M = 1;
-for (M = 1; M <= 10; M++ ){
-console.log();
-console.log("======== T = " + T + " ========")
-    for (M = 1; M  <= 10; M++){
-console.log(T + " x " + M + " = ", T * M );
-}
- } 
-
-
-
-
-
-const produtos=["arroz","ovos","feijão","detergente","sabonete","uva","refrigerante","tomate","bolacha","pão"]
-console.log(produtos);
-console.log(produtos[2])
-console.log(produtos.lenght);
-produtos.pop;
-console.log(produtos.pop())
-
-
-
-
-
-
-const objetopessoaX = {
-    id:93,
-    nome: "leticia",
-    idade: 53,
-    cpf:"999.390.693.89"
-}
-
-console.log(`nome da pessoa: ${objetopessoaX.nome} `)
-
-console.log(objetopessoaX)                                                  
-
-
-console.log(`nome: ${objetocliente.nome}`)                                     
-
-
-
-Vleticia.senhorinho@esconst cliente = {
-    nome: "joão pedro",
-    idade: 40,
-    email:"JPtech.com",
-    telefone: ["41 99999-2222" ,  "41 99998-3333"]
-    
-
-}
-
-console.log(cliente)const cliente = {
-    nome: "joão pedro",
-    idade: 40,
-    email:"JPtech.com",
-    telefone: ["41 99999-2222" ,  "41 99998-3333"]
-    
-
-}
-
-console.log(cliente)
-console.log(cliente.telefone)
-console.log(cliente.telefone)
+],
+"endereco":{
+    "logradouro":"Rua valley Edge",
+    "numero":"5",
+    "cep":"20195",
+    "apartamento":"false",
+    "apartamento":"Venda da tia zezé"
+  }
+}] 
